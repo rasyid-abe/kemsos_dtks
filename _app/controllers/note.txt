@@ -1,0 +1,23 @@
+/* 
+Nama Function yg diizinkan di dalam controller :
+*/
+    [0] => add
+    [1] => update
+    [2] => delete
+    [3] => export
+    [4] => activate
+    [5] => deactivate
+    [6] => import
+    [7] => download
+    [8] => update_password
+    [9] => approve
+    [10] => reject
+    [11] => cancel
+    [12] => closed
+    [13] => receive
+    [14] => show
+    [15] => print
+    [16] => review
+/*
+Atau berdasarkan data dari table core_menu_action
+*/
